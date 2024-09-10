@@ -94,4 +94,12 @@
 .txt3_right{
     display: flex;
 }
+.left2{
+    margin-top: 272px;
+    margin-bottom: 271px;
+    margin-left: 162px;
+    flex: 1;
+    padding: 20px;
+    color: #000000;
+}
 
