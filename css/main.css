@@ -119,8 +119,17 @@
 
 
 
-
+.section3{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
 .card{
     display: flex;
 }
+.right3{
+    flex: 1;
+    margin-right: -80px;
+}
+
 
