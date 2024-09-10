@@ -1,0 +1,25 @@
+
+.header_hed{
+    background-image: url(/my-project/img/background.png);
+}
+
+.header {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 20px; 
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #ffffff; 
+}
+
+.nav a:hover {
+    text-decoration: underline; 
+}
