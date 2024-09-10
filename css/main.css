@@ -63,3 +63,17 @@
     color: #ffffff;
     font-size: 14px;
 }
+.section1{
+    background-color: #1E262F;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.left {
+    margin-top: 342px;
+    margin-bottom: 343px;
+    margin-left: 206px;
+    flex: 1;
+    padding: 20px;
+    color: #ffffff;
+}
