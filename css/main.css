@@ -94,6 +94,15 @@
 .txt3_right{
     display: flex;
 }
+
+
+
+
+.section2{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
 .left2{
     margin-top: 272px;
     margin-bottom: 271px;
@@ -101,5 +110,10 @@
     flex: 1;
     padding: 20px;
     color: #000000;
+}
+.right2{
+    flex: 1;
+    margin-top: 311px;
+    margin-right: 72px;
 }
 
