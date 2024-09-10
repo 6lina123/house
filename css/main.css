@@ -140,3 +140,19 @@
 }
 
 
+.btn2{
+    width: 288px;
+    height: 50px;
+    background-color: #25252C;
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    margin-left: 138px;
+    border: none;
+    padding-left: 48px;
+    margin-top: 44px;
+    margin-left: 558px;
+
+}
+
+
